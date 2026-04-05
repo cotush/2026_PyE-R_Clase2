@@ -10,7 +10,3 @@ partidos_mundial_2022 <- read_sheet(url)
 
 # Data Frame obtenido
 str(partidos_mundial_2022)
-
-
-
-tabyl(datos_grupos, Grupo)

@@ -1,5 +1,5 @@
 # ---------------- 2. Manipulacion de datos ---------------- 
-install.packages("tidyverse")
+#install.packages("tidyverse")
 
 library(tidyverse)
 
